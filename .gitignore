@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+/Lib
+/.idea
+/Scripts
+#These are files for the enviromental support
+*.cfg
