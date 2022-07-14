@@ -4,3 +4,4 @@
 /Scripts
 #These are files for the enviromental support
 *.cfg
+*.dll
